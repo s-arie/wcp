@@ -15,7 +15,5 @@ public class Practice01 {
     System.out.println(8 % 3);
     // ""を付けると文字列として扱われるため、5 + 3の文字が出力される（文字列の連結）
     System.out.println("5 + 3");
-  // メソッド部分の閉じ
   }
-// クラス部分の閉じ
 }
